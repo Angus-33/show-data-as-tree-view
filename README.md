@@ -40,5 +40,6 @@ __:small_orange_diamond:Result:__<br />
 
 
 ## Usage
-* sql file import on phpmyadmin:heavy_check_mark:
-* run file data.php:heavy_check_mark:
+* create database in phpmyadmin with name " tree_view " :heavy_check_mark:
+* sql file import on database " tree_view " :heavy_check_mark:
+* run file data.php :heavy_check_mark:
