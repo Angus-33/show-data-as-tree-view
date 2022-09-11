@@ -35,7 +35,7 @@ __:small_orange_diamond:The table(category) we use:__
 | 20 |tire| 18 |
 | 21 |Car wheels cover| 20 |
 
-__:small_orange_diamond:Result:__
+__:small_orange_diamond:Result:__<br />
 ![result of code](images/result.png)
 
 
